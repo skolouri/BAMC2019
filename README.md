@@ -23,4 +23,5 @@ References:
 
 * LOT (Monge): [Kolouri, S., Tosun, A.B., Ozolek, J.A. and Rohde, G.K., 2016. A continuous linear optimal transport approach for pattern analysis in image datasets. Pattern recognition, 51, pp.453-462.](https://www.sciencedirect.com/science/article/abs/pii/S0031320315003507)
 
+* LOT (Variational 3D): [Kundu, S., Kolouri, S., Erickson, K.I., Kramer, A.F., McAuley, E. and Rohde, G.K., 2018. Discovery and visualization of structural biomarkers from MRI using transport-based morphometry. NeuroImage, 167, pp.256-275.](https://www.sciencedirect.com/science/article/pii/S1053811917309151)
 
