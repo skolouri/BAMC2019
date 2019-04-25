@@ -25,4 +25,6 @@ References:
 
 * LOT (Variational 3D): [Kundu, S., Kolouri, S., Erickson, K.I., Kramer, A.F., McAuley, E. and Rohde, G.K., 2018. Discovery and visualization of structural biomarkers from MRI using transport-based morphometry. NeuroImage, 167, pp.256-275.](https://www.sciencedirect.com/science/article/pii/S1053811917309151)
 
+* Super Resolution: [Kolouri, S. and Rohde, G.K., 2015. Transport-based single frame super resolution of very low resolution face images. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 4876-4884).](http://openaccess.thecvf.com/content_cvpr_2015/html/Kolouri_Transport-Based_Single_Frame_2015_CVPR_paper.html)
+
 * Inverse Problem: [Cattell, L., Meyer, C.H., Epstein, F.H. and Rohde, G.K., 2017, October. Reconstructing high-resolution cardiac MR movies from under-sampled frames. In 2017 51st Asilomar Conference on Signals, Systems, and Computers (pp. 1255-1259). IEEE.](https://ieeexplore.ieee.org/abstract/document/8335553)
