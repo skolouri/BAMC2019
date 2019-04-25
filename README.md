@@ -25,3 +25,4 @@ References:
 
 * LOT (Variational 3D): [Kundu, S., Kolouri, S., Erickson, K.I., Kramer, A.F., McAuley, E. and Rohde, G.K., 2018. Discovery and visualization of structural biomarkers from MRI using transport-based morphometry. NeuroImage, 167, pp.256-275.](https://www.sciencedirect.com/science/article/pii/S1053811917309151)
 
+* Inverse Problem: [Cattell, L., Meyer, C.H., Epstein, F.H. and Rohde, G.K., 2017, October. Reconstructing high-resolution cardiac MR movies from under-sampled frames. In 2017 51st Asilomar Conference on Signals, Systems, and Computers (pp. 1255-1259). IEEE.](https://ieeexplore.ieee.org/abstract/document/8335553)
